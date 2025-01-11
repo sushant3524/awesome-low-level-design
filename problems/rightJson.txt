@@ -1,0 +1,2902 @@
+{
+		"113": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_113_20220420_1638.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_113_20220318_1558.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_113_20220706_2225.listeningData": {
+					"count": 984786,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_113_20220223_2158.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_113_20211102_1958.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_113_20220202_1928.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50670": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50670_20200911_1314.listeningData": {
+					"count": 100,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50670_20220706_2219.listeningData": {
+					"count": 370,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50552": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50552_20210911_1119.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50552_20200911_1113.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50552_20220706_2210.listeningData": {
+					"count": 98,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50551": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50551_20220706_2230.listeningData": {
+					"count": 22,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50551_20200911_1127.listeningData": {
+					"count": 55,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50553": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50553_20220706_2222.listeningData": {
+					"count": 809,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50553_20200911_1121.listeningData": {
+					"count": 62,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50556": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50556_20200911_1134.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50556_20210911_1139.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50556_20220706_2239.listeningData": {
+					"count": 35,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50435": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50435_20220706_2243.listeningData": {
+					"count": 80,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50435_20200911_1137.listeningData": {
+					"count": 21,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50555": {
+			"LST_PLUGIN_HISTORIC_": {
+				"listening-multidb12.MDB_LST_PLUGIN_HISTORIC_50555_20220926_0809.scanAndProcessTaskMultiDB_iFsC": {
+					"count": 224,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_PLUGIN_HISTORIC_50555_20220926_0809.scanAndProcessTaskMultiDB_m_p_c": {
+					"count": 31,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50434": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50434_20200911_1117.listeningData": {
+					"count": 35,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50313": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50313_20220710_0429.listeningData": {
+					"count": 353,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50557": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50557_20200911_1124.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50559": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50559_20200911_1110.listeningData": {
+					"count": 20,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50559_20220706_2206.listeningData": {
+					"count": 486,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"1": {
+			"LST_PLUGIN_HISTORIC_": {
+				"listening-multidb12.MDB_LST_PLUGIN_HISTORIC_1_20220706_2308.scanAndProcessTaskMultiDB_medCls": {
+					"count": 46,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_1_20220926_0807.listeningData": {
+					"count": 505,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50561": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50561_20200911_1132.listeningData": {
+					"count": 43,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50561_20220706_2237.listeningData": {
+					"count": 9,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50561_20210911_1139.listeningData": {
+					"count": 21,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50681": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50681_20211115_0929.listeningData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50562": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50562_20220706_2228.listeningData": {
+					"count": 674,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50320": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50320_20220706_2206.listeningData": {
+					"count": 194,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50320_20200911_1110.listeningData": {
+					"count": 50,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50685": {
+			"LST_MSG_UPDATE": {
+				"listening-multidb12.MDB_LST_MSG_UPDATE50685_20200911_1321.listeningMessageUpdateMultiDBData": {
+					"count": 64,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_MSG_UPDATE50685_20210911_1329.listeningMessageUpdateMultiDBData": {
+					"count": 7,
+					"writable": false,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50685_20200911_1308.listeningData": {
+					"count": 6,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50685_20220706_2212.listeningData": {
+					"count": 3220,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50564": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50564_20210911_1319.listeningData": {
+					"count": 19,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50564_20200911_1309.listeningData": {
+					"count": 21,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50564_20220706_2214.listeningData": {
+					"count": 1646,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50687": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50687_20220706_2219.listeningData": {
+					"count": 2097,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50566": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50566_20200911_1122.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50566_20220706_2223.listeningData": {
+					"count": 49,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50566_20210911_1129.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50324": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50324_20220706_2225.listeningData": {
+					"count": 715,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50324_20200911_1124.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50448": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50448_20200911_1128.listeningData": {
+					"count": 72,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50448_20210911_1129.listeningData": {
+					"count": 15,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50448_20220706_2231.listeningData": {
+					"count": 256,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50447": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50447_20200911_1113.listeningData": {
+					"count": 25,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50447_20220706_2211.listeningData": {
+					"count": 207,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50447_20210911_1119.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50693": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50693_20200911_1312.listeningData": {
+					"count": 1103,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50693_20220706_2241.listeningData": {
+					"count": 1097,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50692": {
+			"LST_MSG_UPDATE": {
+				"listening-multidb12.MDB_LST_MSG_UPDATE50692_20210911_1329.listeningMessageUpdateMultiDBData": {
+					"count": 16,
+					"writable": false,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50692_20210911_1319.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50692_20200911_1312.listeningData": {
+					"count": 10,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50692_20220706_2216.listeningData": {
+					"count": 4357,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50695": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50695_20220706_2228.listeningData": {
+					"count": 103,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50694": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50694_20220706_2211.listeningData": {
+					"count": 3277,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50694_20210911_1309.listeningData": {
+					"count": 8,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50452": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50452_20200911_1121.listeningData": {
+					"count": 40,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50452_20220706_2222.listeningData": {
+					"count": 58,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50455": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50455_20200911_1131.listeningData": {
+					"count": 13,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50455_20220706_2236.listeningData": {
+					"count": 403,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50213": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50213_20220706_2239.listeningData": {
+					"count": 15,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50696": {
+			"LST_MSG_UPDATE": {
+				"listening-multidb12.MDB_LST_MSG_UPDATE50696_20210911_1329.listeningMessageUpdateMultiDBData": {
+					"count": 64,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_MSG_UPDATE50696_20200911_1322.listeningMessageUpdateMultiDBData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_MSG_UPDATE50696_20220706_2251.listeningMessageUpdateMultiDBData": {
+					"count": 30,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50696_20220706_2235.listeningData": {
+					"count": 2828,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50696_20200911_1309.listeningData": {
+					"count": 9,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50454": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50454_20220926_0809.listeningData": {
+					"count": 3,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50333": {
+			"LST_PLUGIN_": {
+				"listening-multidb12.MDB_LST_PLUGIN_50333_20220710_0526.scanAndProcessTaskMultiDB_iFsC": {
+					"count": 5,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50333_20220706_2227.listeningData": {
+					"count": 496,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50333_20200911_1126.listeningData": {
+					"count": 27,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50212": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50212_20200911_1114.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50212_20210911_1118.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50212_20220706_2211.listeningData": {
+					"count": 133,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50699": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50699_20200911_1306.listeningData": {
+					"count": 10,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50215": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50215_20220710_0424.listeningData": {
+					"count": 402,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50577": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50577_20200911_1125.listeningData": {
+					"count": 97,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50335": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50335_20220706_2222.listeningData": {
+					"count": 103,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50580": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50580_20220706_2223.listeningData": {
+					"count": 102,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50341": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50341_20200911_1128.listeningData": {
+					"count": 10,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50340": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50340_20220706_2234.listeningData": {
+					"count": 641,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50340_20210911_1138.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50340_20200911_1131.listeningData": {
+					"count": 56,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50222": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50222_20200911_1114.listeningData": {
+					"count": 147,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50101": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50101_20220706_2207.listeningData": {
+					"count": 757,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50101_20210911_1118.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50101_20200911_1111.listeningData": {
+					"count": 184,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50223": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50223_20200911_1130.listeningData": {
+					"count": 72,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50223_20210911_1138.listeningData": {
+					"count": 65,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50223_20220706_2233.listeningData": {
+					"count": 1393,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50347": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50347_20210911_1119.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50347_20200911_1114.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50347_20220706_2212.listeningData": {
+					"count": 213,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50588": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50588_20200911_1126.listeningData": {
+					"count": 256,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50588_20220706_2229.listeningData": {
+					"count": 351,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50588_20210911_1129.listeningData": {
+					"count": 238,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50225": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50225_20200911_1127.listeningData": {
+					"count": 24,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50471": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50471_20200911_1313.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50472": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50472_20220926_0809.listeningData": {
+					"count": 6,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50354": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50354_20220926_0813.listeningData": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50595": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50595_20211108_0308.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50595_20220706_2237.listeningData": {
+					"count": 203,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50595_20201108_0308.listeningData": {
+					"count": 12,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50353": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50353_20200911_1127.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50353_20210911_1129.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50353_20220706_2230.listeningData": {
+					"count": 722,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50477": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50477_20220926_0814.listeningData": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50114": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50114_20210911_1128.listeningData": {
+					"count": 17,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50114_20220706_2225.listeningData": {
+					"count": 682,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50114_20200911_1124.listeningData": {
+					"count": 487,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50476": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50476_20220710_0447.listeningData": {
+					"count": 89,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50479": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50479_20220926_0814.listeningData": {
+					"count": 227,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50358": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50358_20200911_1135.listeningData": {
+					"count": 68,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50358_20220706_2240.listeningData": {
+					"count": 1788,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50116": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50116_20210911_1118.listeningData": {
+					"count": 9,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50116_20200911_1113.listeningData": {
+					"count": 25,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50116_20220706_2209.listeningData": {
+					"count": 732,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50599": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50599_20200911_1131.listeningData": {
+					"count": 15,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50599_20220706_2235.listeningData": {
+					"count": 307,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50599_20210911_1139.listeningData": {
+					"count": 13,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50236": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50236_20220706_2223.listeningData": {
+					"count": 224,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50118": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50118_20210911_1128.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50118_20220706_2222.listeningData": {
+					"count": 139,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50118_20200911_1121.listeningData": {
+					"count": 16,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50360": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50360_20200911_1111.listeningData": {
+					"count": 134,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50363": {
+			"LST_PLUGIN_HISTORIC_": {
+				"listening-multidb12.MDB_LST_PLUGIN_HISTORIC_50363_20220706_2305.scanAndProcessTaskMultiDB_medCls": {
+					"count": 22,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50483": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50483_20220706_2240.listeningData": {
+					"count": 445,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50483_20200911_1135.listeningData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50241": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50241_20221002_1858.listeningData": {
+					"count": 51,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50120": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50120_20220706_2237.listeningData": {
+					"count": 571,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50120_20210911_1138.listeningData": {
+					"count": 84,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50365": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50365_20220706_2216.listeningData": {
+					"count": 307,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50244": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50244_20221002_1857.listeningData": {
+					"count": 7,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50244_20220926_0809.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50485": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50485_20220926_0814.listeningData": {
+					"count": 33,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50487": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50487_20220706_2216.listeningData": {
+					"count": 110,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50366": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50366_20220706_2235.listeningData": {
+					"count": 565,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50366_20200911_1131.listeningData": {
+					"count": 21,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50124": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50124_20200911_1129.listeningData": {
+					"count": 31,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50124_20220706_2233.listeningData": {
+					"count": 390,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50124_20210911_1138.listeningData": {
+					"count": 21,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50369": {
+			"LST_PLUGIN_": {
+				"listening-multidb12.MDB_LST_PLUGIN_50369_20220926_0813.scanAndProcessTaskMultiDB_m_p_c": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_PLUGIN_50369_20220926_0813.scanAndProcessTaskMultiDB_medCls": {
+					"count": 466,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50369_20220706_2209.listeningData": {
+					"count": 1542,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50489": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50489_20200911_1119.listeningData": {
+					"count": 41,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50489_20210911_1119.listeningData": {
+					"count": 29,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50489_20220706_2219.listeningData": {
+					"count": 1287,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50368": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50368_20200911_1127.listeningData": {
+					"count": 84,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50368_20220706_2230.listeningData": {
+					"count": 888,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50129": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50129_20220706_2240.listeningData": {
+					"count": 33,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50370": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50370_20220706_2208.listeningData": {
+					"count": 344,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50493": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50493_20220706_2228.listeningData": {
+					"count": 277,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50493_20220121_1908.listeningData": {
+					"count": 86,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50493_20220121_2148.listeningData": {
+					"count": 430,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50493_20220411_1939.listeningData": {
+					"count": 330,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50493_20220121_1938.listeningData": {
+					"count": 181,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50493_20220121_2028.listeningData": {
+					"count": 208,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50493_20210514_1309.listeningData": {
+					"count": 1171,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50130": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50130_20220926_0808.listeningData": {
+					"count": 15,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50132": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50132_20220706_2219.listeningData": {
+					"count": 22,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50376": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50376_20220706_2221.listeningData": {
+					"count": 121,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50376_20200911_1120.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50254": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50254_20200911_1132.listeningData": {
+					"count": 50,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50254_20220706_2236.listeningData": {
+					"count": 1051,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50499": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50499_20220926_0809.listeningData": {
+					"count": 24,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50017": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50017_20220706_2235.listeningData": {
+					"count": 1618,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50017_20200911_1131.listeningData": {
+					"count": 13,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50379": {
+			"LST_PLUGIN_": {
+				"listening-multidb12.MDB_LST_PLUGIN_50379_20220926_0813.scanAndProcessTaskMultiDB_iFsC": {
+					"count": 6,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50379_20210911_1138.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50379_20220706_2234.listeningData": {
+					"count": 673,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50379_20200911_1130.listeningData": {
+					"count": 18,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50137": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50137_20200911_1125.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50137_20220706_2226.listeningData": {
+					"count": 40,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50019": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50019_20220706_2219.listeningData": {
+					"count": 376,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50019_20200911_1119.listeningData": {
+					"count": 25,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50262": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50262_20220926_0812.listeningData": {
+					"count": 2,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50141": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50141_20200911_1117.listeningData": {
+					"count": 15,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50141_20210911_1118.listeningData": {
+					"count": 9,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50020": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50020_20220710_0452.listeningData": {
+					"count": 321,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50261": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50261_20220706_2234.listeningData": {
+					"count": 584,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50261_20200911_1130.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50384": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50384_20220706_2206.listeningData": {
+					"count": 336,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50384_20200911_1110.listeningData": {
+					"count": 31,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50387": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50387_20210911_1119.listeningData": {
+					"count": 7,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50387_20200911_1115.listeningData": {
+					"count": 9,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50387_20220706_2214.listeningData": {
+					"count": 64,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50386": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50386_20210911_1138.listeningData": {
+					"count": 8,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50386_20220706_2238.listeningData": {
+					"count": 200,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50386_20200911_1133.listeningData": {
+					"count": 84,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50265": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50265_20220706_2216.listeningData": {
+					"count": 556,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50268": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50268_20220706_2240.listeningData": {
+					"count": 26,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50700": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50700_20220706_2207.listeningData": {
+					"count": 153,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50703": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50703_20220706_2212.listeningData": {
+					"count": 268,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50706": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50706_20220706_2234.listeningData": {
+					"count": 1108,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50709": {
+			"LST_MSG_UPDATE": {
+				"listening-multidb12.MDB_LST_MSG_UPDATE50709_20200911_1315.listeningMessageUpdateMultiDBData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50708": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50708_20220706_2236.listeningData": {
+					"count": 632,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50708_20200911_1310.listeningData": {
+					"count": 39,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50271": {
+			"LST_PLUGIN_": {
+				"listening-multidb12.MDB_LST_PLUGIN_50271_20220926_0812.scanAndProcessTaskMultiDB_medCls": {
+					"count": 237,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_PLUGIN_50271_20220926_0812.scanAndProcessTaskMultiDB_m_p_c": {
+					"count": 4,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50271_20220706_2221.listeningData": {
+					"count": 1393,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50393": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50393_20210911_1138.listeningData": {
+					"count": 6,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50393_20200911_1137.listeningData": {
+					"count": 8,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50272": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50272_20220706_2206.listeningData": {
+					"count": 467,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50398": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50398_20220706_2239.listeningData": {
+					"count": 3,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50155": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50155_20220706_2236.listeningData": {
+					"count": 1557,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50155_20210911_1138.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50036": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50036_20220706_2213.listeningData": {
+					"count": 105,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50159": {
+			"LST_PLUGIN_": {
+				"listening-multidb12.MDB_LST_PLUGIN_50159_20220926_0809.scanAndProcessTaskMultiDB_medCls": {
+					"count": 5616,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_PLUGIN_50159_20221002_1849.scanAndProcessTaskMultiDB_medCls": {
+					"count": 37,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_PLUGIN_50159_20221002_1849.scanAndProcessTaskMultiDB_m_p_c": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50159_20210911_1128.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50159_20200911_1126.listeningData": {
+					"count": 6,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50159_20220706_2229.listeningData": {
+					"count": 205,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50280": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50280_20210911_1119.listeningData": {
+					"count": 14,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50280_20220706_2218.listeningData": {
+					"count": 203,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50280_20200911_1118.listeningData": {
+					"count": 65,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50160": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50160_20211109_0418.listeningData": {
+					"count": 23,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50160_20201109_0409.listeningData": {
+					"count": 779,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50160_20220706_2231.listeningData": {
+					"count": 76,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50044": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50044_20220926_0807.listeningData": {
+					"count": 27,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50285": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50285_20220926_0812.listeningData": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50288": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50288_20220706_2220.listeningData": {
+					"count": 696,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50288_20200911_1119.listeningData": {
+					"count": 16,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50288_20210911_1128.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50287": {
+			"LST_PLUGIN_HISTORIC_": {
+				"listening-multidb12.MDB_LST_PLUGIN_HISTORIC_50287_20210911_1218.scanAndProcessTaskMultiDB_m_p_c": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50169": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50169_20220710_0453.listeningData": {
+					"count": 250,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50600": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50600_20200911_1111.listeningData": {
+					"count": 7,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50600_20220706_2207.listeningData": {
+					"count": 825,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50172": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50172_20210911_1128.listeningData": {
+					"count": 7,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50172_20220706_2226.listeningData": {
+					"count": 407,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50172_20200911_1125.listeningData": {
+					"count": 27,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50171": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50171_20220706_2238.listeningData": {
+					"count": 50,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50295": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50295_20220706_2228.listeningData": {
+					"count": 277,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50052": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50052_20220706_2224.listeningData": {
+					"count": 716,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50176": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50176_20220710_0501.listeningData": {
+					"count": 495,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50054": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50054_20200911_1122.listeningData": {
+					"count": 34,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50054_20220706_2223.listeningData": {
+					"count": 8,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50299": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50299_20220706_2225.listeningData": {
+					"count": 854,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50299_20200911_1124.listeningData": {
+					"count": 55,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50057": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50057_20220706_2224.listeningData": {
+					"count": 774,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50057_20200911_1123.listeningData": {
+					"count": 261,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50056": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50056_20220710_0432.listeningData": {
+					"count": 15,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50187": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50187_20210911_1138.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50187_20220706_2241.listeningData": {
+					"count": 6,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50501": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50501_20200911_1134.listeningData": {
+					"count": 74,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50501_20210911_1139.listeningData": {
+					"count": 19,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50621": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50621_20220706_2244.listeningData": {
+					"count": 498,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50621_20210911_1319.listeningData": {
+					"count": 7,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50621_20200911_1314.listeningData": {
+					"count": 24,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50500": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50500_20220706_2214.listeningData": {
+					"count": 315,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50500_20200911_1115.listeningData": {
+					"count": 25,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50505": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50505_20220710_0439.listeningData": {
+					"count": 754,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50504": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50504_20200911_1128.listeningData": {
+					"count": 12,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50504_20220706_2232.listeningData": {
+					"count": 942,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50504_20210911_1129.listeningData": {
+					"count": 57,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50504_20220202_1929.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50628": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50628_20200911_1310.listeningData": {
+					"count": 137,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50628_20210911_1319.listeningData": {
+					"count": 61,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50628_20220706_2215.listeningData": {
+					"count": 13607,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50506": {
+			"LST_PLUGIN_HISTORIC_": {
+				"listening-multidb12.MDB_LST_PLUGIN_HISTORIC_50506_20220706_2314.scanAndProcessTaskMultiDB_medCls": {
+					"count": 812,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_PLUGIN_HISTORIC_50506_20210911_1219.scanAndProcessTaskMultiDB_medCls": {
+					"count": 171,
+					"writable": false,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50506_20220926_0809.listeningData": {
+					"count": 2,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50509": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50509_20220706_2237.listeningData": {
+					"count": 413,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50629": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50629_20200911_1303.listeningData": {
+					"count": 34,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50629_20210911_1309.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50629_20220706_2208.listeningData": {
+					"count": 1203,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50190": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50190_20220710_0444.listeningData": {
+					"count": 43,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50196": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50196_20220706_2226.listeningData": {
+					"count": 81,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50198": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50198_20220706_2223.listeningData": {
+					"count": 490,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50198_20200911_1122.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50197": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50197_20200911_1112.listeningData": {
+					"count": 105,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50197_20210911_1118.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50197_20220706_2208.listeningData": {
+					"count": 611,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50631": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50631_20210911_1309.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50510": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50510_20220706_2232.listeningData": {
+					"count": 899,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50510_20200911_1129.listeningData": {
+					"count": 56,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50632": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50632_20210911_1309.listeningData": {
+					"count": 15,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50632_20220706_2210.listeningData": {
+					"count": 964,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50632_20200911_1304.listeningData": {
+					"count": 40,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50511": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50511_20220706_2238.listeningData": {
+					"count": 284,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50635": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50635_20200911_1309.listeningData": {
+					"count": 7,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50635_20210911_1319.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50639": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50639_20220706_2215.listeningData": {
+					"count": 234,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50639_20210911_1319.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50639_20200911_1310.listeningData": {
+					"count": 20,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50518": {
+			"LST_MSG_UPDATE": {
+				"listening-multidb12.MDB_LST_MSG_UPDATE50518_20220706_2246.listeningMessageUpdateMultiDBData": {
+					"count": 2,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50518_20220706_2226.listeningData": {
+					"count": 2323,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50518_20210911_1309.listeningData": {
+					"count": 38,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50638": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50638_20220706_2234.listeningData": {
+					"count": 245,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50638_20200911_1308.listeningData": {
+					"count": 5,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50638_20210911_1309.listeningData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50083": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50083_20220706_2223.listeningData": {
+					"count": 59,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50083_20200911_1122.listeningData": {
+					"count": 534,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50085": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50085_20220706_2236.listeningData": {
+					"count": 359,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50087": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50087_20220706_2225.listeningData": {
+					"count": 237,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50087_20200911_1124.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50640": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50640_20220706_2241.listeningData": {
+					"count": 11,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50640_20200911_1312.listeningData": {
+					"count": 50,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50642": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50642_20220706_2220.listeningData": {
+					"count": 6,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50400": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50400_20220706_2221.listeningData": {
+					"count": 8586,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50400_20200911_1302.listeningData": {
+					"count": 1415,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50400_20210911_1309.listeningData": {
+					"count": 33,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50641": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50641_20210911_1319.listeningData": {
+					"count": 56,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50641_20200911_1314.listeningData": {
+					"count": 135,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50641_20220706_2220.listeningData": {
+					"count": 4220,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50643": {
+			"LST_MSG_UPDATE": {
+				"listening-multidb12.MDB_LST_MSG_UPDATE50643_20200911_1323.listeningMessageUpdateMultiDBData": {
+					"count": 72,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_MSG_UPDATE50643_20210911_1329.listeningMessageUpdateMultiDBData": {
+					"count": 10,
+					"writable": false,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50643_20220706_2214.listeningData": {
+					"count": 76,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50522": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50522_20220706_2243.listeningData": {
+					"count": 1236,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50522_20200911_1136.listeningData": {
+					"count": 35,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50522_20210911_1139.listeningData": {
+					"count": 63,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50525": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50525_20220926_0809.listeningData": {
+					"count": 2,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50403": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50403_20200911_1126.listeningData": {
+					"count": 10,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50403_20220706_2228.listeningData": {
+					"count": 1707,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50403_20210911_1129.listeningData": {
+					"count": 24571,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50648": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50648_20210911_1319.listeningData": {
+					"count": 13,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50405": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50405_20200911_1129.listeningData": {
+					"count": 118,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50405_20220706_2233.listeningData": {
+					"count": 1078,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50405_20210911_1138.listeningData": {
+					"count": 30,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50529": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50529_20220706_2221.listeningData": {
+					"count": 341,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50649": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50649_20220706_2244.listeningData": {
+					"count": 12,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50649_20200911_1315.listeningData": {
+					"count": 76,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50649_20210911_1319.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50528": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50528_20210911_1119.listeningData": {
+					"count": 9,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50528_20200911_1118.listeningData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50528_20220706_2219.listeningData": {
+					"count": 28,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50409": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50409_20210911_1119.listeningData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50409_20220706_2213.listeningData": {
+					"count": 373,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50090": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50090_20220710_0459.listeningData": {
+					"count": 203,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50097": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50097_20220926_0808.listeningData": {
+					"count": 2,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50096": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50096_20220706_2206.listeningData": {
+					"count": 1566,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50096_20200911_1110.listeningData": {
+					"count": 114,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50530": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50530_20200911_1129.listeningData": {
+					"count": 113,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50530_20210911_1129.listeningData": {
+					"count": 12,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50530_20220706_2232.listeningData": {
+					"count": 316,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50650": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50650_20210911_1309.listeningData": {
+					"count": 6,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50650_20220706_2233.listeningData": {
+					"count": 10,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50532": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50532_20200911_1123.listeningData": {
+					"count": 2,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50532_20220706_2224.listeningData": {
+					"count": 464,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50531": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50531_20220706_2237.listeningData": {
+					"count": 161,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50655": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50655_20210911_1309.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50655_20220706_2221.listeningData": {
+					"count": 467,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50534": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50534_20220926_0809.listeningData": {
+					"count": 24,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50654": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50654_20220706_2231.listeningData": {
+					"count": 6184,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50654_20200911_1307.listeningData": {
+					"count": 79,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50654_20210911_1309.listeningData": {
+					"count": 21,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50533": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50533_20220926_0809.listeningData": {
+					"count": 4,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50657": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50657_20220706_2241.listeningData": {
+					"count": 3957,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50657_20210911_1319.listeningData": {
+					"count": 35,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50657_20200911_1312.listeningData": {
+					"count": 93,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50414": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50414_20220710_0442.listeningData": {
+					"count": 245,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50538": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50538_20220706_2205.listeningData": {
+					"count": 41,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50537": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50537_20220926_0809.listeningData": {
+					"count": 745,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50419": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50419_20200911_1312.listeningData": {
+					"count": 34,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50419_20220706_2217.listeningData": {
+					"count": 162,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50660": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50660_20200911_1307.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50660_20220706_2233.listeningData": {
+					"count": 321,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50662": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50662_20210911_1319.listeningData": {
+					"count": 58,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50662_20200911_1313.listeningData": {
+					"count": 173,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50662_20220706_2242.listeningData": {
+					"count": 2677,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50541": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50541_20220706_2212.listeningData": {
+					"count": 4072,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50541_20210911_1119.listeningData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50420": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50420_20220706_2210.listeningData": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50540": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50540_20210911_1139.listeningData": {
+					"count": 1,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50540_20220706_2238.listeningData": {
+					"count": 187,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50664": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50664_20220706_2239.listeningData": {
+					"count": 54,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50664_20200911_1311.listeningData": {
+					"count": 22,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50664_20210911_1319.listeningData": {
+					"count": 37,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50543": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50543_20200911_1131.listeningData": {
+					"count": 150,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50543_20220706_2234.listeningData": {
+					"count": 286,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50543_20210911_1139.listeningData": {
+					"count": 6,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50542": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50542_20210911_1119.listeningData": {
+					"count": 29,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50542_20220706_2217.listeningData": {
+					"count": 2981,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50542_20200911_1117.listeningData": {
+					"count": 152,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50300": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50300_20220926_0813.listeningData": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50666": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50666_20200911_1304.listeningData": {
+					"count": 3,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50545": {
+			"LST_PLUGIN_": {
+				"listening-multidb12.MDB_LST_PLUGIN_50545_20220926_0809.scanAndProcessTaskMultiDB_fc": {
+					"count": 34,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50545_20220926_0809.listeningData": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50544": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50544_20210911_1119.listeningData": {
+					"count": 26,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50544_20200911_1113.listeningData": {
+					"count": 75,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50544_20220706_2210.listeningData": {
+					"count": 299,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50302": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50302_20220706_2226.listeningData": {
+					"count": 1,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50302_20200911_1303.listeningData": {
+					"count": 27,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50668": {
+			"LST_MSG_UPDATE": {
+				"listening-multidb12.MDB_LST_MSG_UPDATE50668_20210911_1319.listeningMessageUpdateMultiDBData": {
+					"count": 691,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_MSG_UPDATE50668_20200911_1317.listeningMessageUpdateMultiDBData": {
+					"count": 4,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_LST_MSG_UPDATE50668_20220706_2246.listeningMessageUpdateMultiDBData": {
+					"count": 157,
+					"writable": true,
+					"messages": []
+				}
+			},
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50668_20220706_2209.listeningData": {
+					"count": 1600,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50547": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50547_20200911_1136.listeningData": {
+					"count": 42,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50547_20220706_2241.listeningData": {
+					"count": 4181,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50547_20210911_1139.listeningData": {
+					"count": 15,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50426": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50426_20200911_1120.listeningData": {
+					"count": 61,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50426_20210911_1129.listeningData": {
+					"count": 16,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50426_20220706_2221.listeningData": {
+					"count": 1857,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50546": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50546_20210911_1119.listeningData": {
+					"count": 6,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50546_20200911_1112.listeningData": {
+					"count": 80,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50546_20220706_2209.listeningData": {
+					"count": 903,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50549": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50549_20220706_2224.listeningData": {
+					"count": 133,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50549_20200911_1123.listeningData": {
+					"count": 60,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50669": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50669_20220706_2227.listeningData": {
+					"count": 5297,
+					"writable": true,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50669_20200911_1304.listeningData": {
+					"count": 8,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50548": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50548_20200911_1111.listeningData": {
+					"count": 43,
+					"writable": false,
+					"messages": []
+				}
+			}
+		},
+		"50427": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50427_20200911_1137.listeningData": {
+					"count": 17,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50427_20220706_2244.listeningData": {
+					"count": 405,
+					"writable": true,
+					"messages": []
+				}
+			}
+		},
+		"50306": {
+			"lst": {
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50306_20200911_1125.listeningData": {
+					"count": 9,
+					"writable": false,
+					"messages": []
+				},
+				"listening-multidb12.MDB_SPR_LST_PARTNER_50306_20220706_2226.listeningData": {
+					"count": 172,
+					"writable": true,
+					"messages": []
+				}
+			}
+		}
+}
